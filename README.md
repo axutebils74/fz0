@@ -1,4 +1,5 @@
 # fz0
+# 下载方式
 ### ios
 [https://apps.apple.com/cn/app/id1552823102](https://apps.apple.com/cn/app/id1552823102)
 ### android
